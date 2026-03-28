@@ -79,7 +79,7 @@ Don't forget to give the project a star! Thanks again!
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/JGaurav26">
+        <a href="https://github.com/GgauravJ05">
           <img src="https://avatars.githubusercontent.com/JGaurav26" width="100px" style="border-radius: 50%;" alt="Gaurav Jadhav"/><br />
           <sub><b>Gaurav Jadhav</b></sub>
         </a>
